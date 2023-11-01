@@ -1,9 +1,6 @@
 class Marker
 {
-	String name;
-	String color;
-	double price;
-rery
+	
 
 
 	Marker(){}
