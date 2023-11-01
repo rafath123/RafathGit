@@ -8,6 +8,7 @@ rery
 
 	Marker(){}
 	Marker(String name,String color,double price)
+	q771
 	{
 		this.name=name;
 		this.color=color;
