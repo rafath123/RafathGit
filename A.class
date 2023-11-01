@@ -1,7 +1,8 @@
 Êþº¾   = 7
     
 bjhu
-56718   java/lang/Object <init> ()V   Marker 
+56718
+7899   java/lang/Object <init> ()V   Marker 
  Rorito  Blue@4      
       ((Ljava/lang/String;Ljava/lang/String;D)V	       java/lang/System out Ljava/io/PrintStream;
        java/io/PrintStream  println (Ljava/lang/Object;)V   Renalts ! Red@9       %  Mystick ' Black@>       + Hello World!
